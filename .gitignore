@@ -35,7 +35,7 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 #private keyd
-/privatekeys4
+/privatekeys
 
 #env
 /.env
